@@ -14,7 +14,7 @@ Here are some key insights derived from the data analysis:
 Total Employees: There are 1,000 employees in total, with 486 females and 514 males.
 Top Occupations: The top 5 occupations by count are Insurer, Biochemist, Agronomist, Driver, and Programmer.
 Average Age: The average age of males is 40 years, while females have an average age of 39 years.
-Highest Salary: Addison Bailey has the highest salary at $17,656, followed by Ned Brown at $17,490.
+Highest Salary: Addison Bailey has the highest salary at 17,656, followed by Ned Brown at 17,490.
 Occupation Salary: Insurer, Biochemist, Engineer, Mechanic, and Singer are the top 5 occupations by salary.
 Salary vs. Gender: There is minimal salary difference between males and females (Males - 50.71%, Females - 49.29%).
 Occupation Count: The Insurer occupation has the highest count at 29, followed by Biochemist and Driver.
