@@ -19,7 +19,7 @@ Occupation Salary: Insurer, Biochemist, Engineer, Mechanic, and Singer are the t
 Salary vs. Gender: There is minimal salary difference between males and females (Males - 50.71%, Females - 49.29%).
 Occupation Count: The Insurer occupation has the highest count at 29, followed by Biochemist and Driver.
 Occupation Proportion: Insurers account for 18.95% of the total occupations.
-Salary Range: Across all 5 occupations, the total salary ranges from $136,536 to $161,574.
+Salary Range: Across all 5 occupations, the total salary ranges from 136,536 to 161,574.
 Average Salary by Gender: Female adults make up 17.67% of the average salary.
 
 Contact
